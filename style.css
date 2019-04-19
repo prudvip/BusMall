@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    background: #000;
+    padding: 2%;
+    color: #fff;
+    font-family: helvetica;
+    font-size: 4.5vw;
+}
+
+body {
+    text-align: center;
+}
+
+img {
+    margin-top: 2px;
+    width: 50%;
+}
